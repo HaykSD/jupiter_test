@@ -4,6 +4,6 @@ https://mybinder.org/
 
 
 important files:
-    requirements.txt
-    setup.py
-    README.md
+    requirements.txt<br />
+    setup.py<br />
+    README.md<br />
