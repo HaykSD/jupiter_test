@@ -13,3 +13,4 @@ pygame
 requests
 Pillow
 opencv-python
+PyInquirer
